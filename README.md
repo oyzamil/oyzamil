@@ -16,7 +16,4 @@
 ![Firefox Extension](https://img.shields.io/badge/-FireFox%20Extension-black?style=flat-rounded&logo=firefox)
 
 ## Popular
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=softwebtuts&repo=bloggerpack)](https://github.com/softwebtuts/bloggerpack)
-
-![snake](https://raw.githubusercontent.com/yzqdev/yzqdev/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/oyzamil/oyzamil/refs/heads/main/github-contribution-grid-snake.svg)
