@@ -1,6 +1,6 @@
 ## 🎍 My Skills
 
-![https://github.com/muzammil0011](https://skillicons.dev/icons?i=html,css,ts,vite,nodejs,vscode,visualstudio,github,md,mysql,stackoverflow,ps)
+![https://github.com/oyzamil](https://skillicons.dev/icons?i=html,css,ts,vite,nodejs,vscode,visualstudio,github,md,mysql,stackoverflow,ps)
 <!-- ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Dart](https://img.shields.io/badge/-dart-black?style=flat-square&logo=dart)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white) -->
-![Github](https://img.shields.io/github/followers/muzammil0011?style=flat-rounded&logo=github)
+![Github](https://img.shields.io/github/followers/oyzamil?style=flat-rounded&logo=github)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-rounded&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-rounded&logo=html5)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-rounded&logo=typescript)
